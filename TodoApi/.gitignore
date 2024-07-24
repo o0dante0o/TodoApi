@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.vscode/
+*.user
+*.suo
+*.userosscache
+*.suo
+*.dbmdl
+*.bak
+*.log
+
+# Node.js
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
