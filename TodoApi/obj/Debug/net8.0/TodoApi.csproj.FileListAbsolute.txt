@@ -28,3 +28,4 @@ C:\projects\udemy\microServicesDotNet\TodoApi\TodoApi\TodoApi\bin\Debug\net8.0\M
 C:\projects\udemy\microServicesDotNet\TodoApi\TodoApi\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\projects\udemy\microServicesDotNet\TodoApi\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
 C:\projects\udemy\microServicesDotNet\TodoApi\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.csproj.Up2Date
+C:\projects\udemy\microServicesDotNet\TodoApi\TodoApi\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json

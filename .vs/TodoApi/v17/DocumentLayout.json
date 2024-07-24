@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|c:\\projects\\udemy\\microservicesdotnet\\todoapi\\todoapi\\todoapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|c:\\projects\\udemy\\microservicesdotnet\\todoapi\\todoapi\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|c:\\projects\\udemy\\microservicesdotnet\\todoapi\\todoapi\\todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|c:\\projects\\udemy\\microservicesdotnet\\todoapi\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,8 +11,24 @@
       "RelativeMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|c:\\projects\\udemy\\microservicesdotnet\\todoapi\\todoapi\\todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|c:\\projects\\udemy\\microservicesdotnet\\todoapi\\todoapi\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|c:\\projects\\udemy\\microservicesdotnet\\todoapi\\todoapi\\todoapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|c:\\projects\\udemy\\microservicesdotnet\\todoapi\\todoapi\\todoapi\\todoapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todoapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|c:\\projects\\udemy\\microservicesdotnet\\todoapi\\todoapi\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7C941AB-24CC-4B4F-AB72-EBC356608685}|TodoApi\\TodoApi.csproj|c:\\projects\\udemy\\microservicesdotnet\\todoapi\\todoapi\\todoapi\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,19 +42,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\TodoApi\\.gitignore",
-              "RelativeDocumentMoniker": "TodoApi\\.gitignore",
-              "ToolTip": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\TodoApi\\.gitignore",
-              "RelativeToolTip": "TodoApi\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\TodoApi\\Dockerfile",
+              "RelativeDocumentMoniker": "TodoApi\\Dockerfile",
+              "ToolTip": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\TodoApi\\Dockerfile",
+              "RelativeToolTip": "TodoApi\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-24T21:16:15.51Z",
+              "WhenOpened": "2024-07-24T21:43:32.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoApi",
+              "DocumentMoniker": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\TodoApi\\TodoApi.csproj",
+              "RelativeDocumentMoniker": "TodoApi\\TodoApi.csproj",
+              "ToolTip": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\TodoApi\\TodoApi.csproj",
+              "RelativeToolTip": "TodoApi\\TodoApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T21:29:51.14Z",
               "EditorCaption": ""
             },
             {
@@ -61,25 +77,27 @@
               "RelativeDocumentMoniker": "TodoApi\\Properties\\launchSettings.json",
               "ToolTip": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\TodoApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "TodoApi\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-24T21:14:01.842Z"
+              "WhenOpened": "2024-07-24T21:27:41.224Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\TodoApi\\appsettings.json",
               "RelativeDocumentMoniker": "TodoApi\\appsettings.json",
               "ToolTip": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\TodoApi\\appsettings.json",
               "RelativeToolTip": "TodoApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-24T20:43:52.438Z"
+              "WhenOpened": "2024-07-24T20:43:52.438Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TodoDb.cs",
               "DocumentMoniker": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\TodoApi\\TodoDb.cs",
               "RelativeDocumentMoniker": "TodoApi\\TodoDb.cs",
@@ -91,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "TodoApi.csproj",
               "DocumentMoniker": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\TodoApi\\TodoApi.csproj",
               "RelativeDocumentMoniker": "TodoApi\\TodoApi.csproj",
@@ -99,31 +117,34 @@
               "RelativeToolTip": "TodoApi\\TodoApi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-24T19:59:41.435Z"
+              "WhenOpened": "2024-07-24T19:59:41.435Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\TodoApi\\TodoItem.cs",
               "RelativeDocumentMoniker": "TodoApi\\TodoItem.cs",
               "ToolTip": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\TodoApi\\TodoItem.cs",
               "RelativeToolTip": "TodoApi\\TodoItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T19:54:04.277Z"
+              "WhenOpened": "2024-07-24T19:54:04.277Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\TodoApi\\Program.cs",
               "RelativeDocumentMoniker": "TodoApi\\Program.cs",
               "ToolTip": "C:\\projects\\udemy\\microServicesDotNet\\TodoApi\\TodoApi\\TodoApi\\Program.cs",
               "RelativeToolTip": "TodoApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T00:06:05.628Z"
+              "WhenOpened": "2024-07-24T00:06:05.628Z",
+              "EditorCaption": ""
             }
           ]
         }
